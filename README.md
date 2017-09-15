@@ -3,6 +3,7 @@
 The problem shown in the exercise is a typical sorting algorithm. The dependencies of the jobs, give an extra level of complexity, especially when circular dependencies appear.
 To solve the problem, I have applied the Depth-first search algorithm, which is based in the original Kahn's algorithm (Wikipedia source):
 <br />
+<br />
 L ← Empty list that will contain the sorted elements
 <br />
 S ← Set of all nodes with no incoming edge
@@ -31,7 +32,9 @@ else
 	<br />
 <br />
 <br />
-The depth-first search is faster and more effective:<br />
+The depth-first search is faster and more effective:
+<br />
+<br />
 L ← Empty list that will contain the sorted nodes<br />
 while there are unmarked nodes do<br />
     select an unmarked node n<br />
