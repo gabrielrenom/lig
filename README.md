@@ -2,6 +2,7 @@
 
 The problem shown in the exercise is a typical sorting algorithm. The dependencies of the jobs, give an extra level of complexity, especially when circular dependencies appear.
 To solve the problem, I have applied the Depth-first search algorithm, which is based in the original Kahn's algorithm (Wikipedia source):
+<br />
 L ← Empty list that will contain the sorted elements
 S ← Set of all nodes with no incoming edge
 while S is non-empty do
