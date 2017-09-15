@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  lifeisgreat.web:
+    image: lifeisgreat.web
+    build:
+      context: .\LifeIsGreat.Web
+      dockerfile: Dockerfile

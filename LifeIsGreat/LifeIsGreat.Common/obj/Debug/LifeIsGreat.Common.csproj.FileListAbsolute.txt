@@ -1,0 +1,6 @@
+C:\LIG\LifeIsGreat.Web\LifeIsGreat.Common\bin\Debug\LifeIsGreat.Common.dll
+C:\LIG\LifeIsGreat.Web\LifeIsGreat.Common\bin\Debug\LifeIsGreat.Common.pdb
+C:\LIG\LifeIsGreat.Web\LifeIsGreat.Common\obj\Debug\LifeIsGreat.Common.csprojResolveAssemblyReference.cache
+C:\LIG\LifeIsGreat.Web\LifeIsGreat.Common\obj\Debug\LifeIsGreat.Common.csproj.CoreCompileInputs.cache
+C:\LIG\LifeIsGreat.Web\LifeIsGreat.Common\obj\Debug\LifeIsGreat.Common.dll
+C:\LIG\LifeIsGreat.Web\LifeIsGreat.Common\obj\Debug\LifeIsGreat.Common.pdb
